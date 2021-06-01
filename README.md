@@ -10,7 +10,7 @@
 
 # What is ft_server ❔
 
-> [SUBJECT](en.subject.pdf)
+> [SUBJECT](ft_server.pdf)
 
 The goal of ft_server is to create a web server with ```Nginx``` capable of running a ```WordPress``` website, ```phpMyAdmin```, and a ```MySQL``` database. This server will run in only one Docker container, under Debian Buster.
 
@@ -19,7 +19,6 @@ The goal of ft_server is to create a web server with ```Nginx``` capable of runn
 |WordPress   |```http:localhost/wordpress```|
 |phpMyAdmin  |```http:localhost/phpmyadmin```|
 
-![final_version](img/final.png)
 
 ## Description for newbies: 💡
 When you type in the search bar "Google.com" a web server stores the files constituting the website (images, etc.). To obtain the page, your browser makes a request for a web page to the server which then sends the files (if the server doesn't find the requested document, it returns a 404 response instead).
