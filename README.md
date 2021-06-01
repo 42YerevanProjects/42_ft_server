@@ -6,8 +6,7 @@
 ## Table of Contents:
 1. [What is ft_server](https://github.com/vvarodi/ft_server#what-is-ft_server-) ❔
     * [Description for newbies](https://github.com/vvarodi/ft_server#description-for-newbies-) 💡
-2. [How it looks](https://github.com/vvarodi/ft_server#how-it-looks-) 💻 
-3. [Resources / Research](https://github.com/vvarodi/ft_server#resourcesresearch-) 🔍
+2. [Resources / Research](https://github.com/vvarodi/ft_server#resourcesresearch-) 🔍
 
 # What is ft_server ❔
 
@@ -52,19 +51,6 @@ The Docker image would include:
 * PhpMyAdmin
 * Wordpress
 ------------------
-
-# How it looks 👀
-``` http://localhost/ ```
-
-![final](img/final.png)
-
-``` http://localhost/pypmyadmin```
-
-![phpmyadmin](img/phpmyadmin.png)
-
-``` http://localhost/wordpress```
-
-![WordPressWelcome](img/wordpress_welcome.png)
 
 ## Resources/Research: 🔍
 * **Docker**
